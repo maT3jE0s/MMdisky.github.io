@@ -95,7 +95,7 @@ header .icon_minimalized .line{
         z-index: 9;
         left: 0;
         right: 0;
-        top: 120px;
+        top: 0px;
         bottom: 100%;
         width: auto;
         height: auto;
@@ -264,5 +264,5 @@ a:hover{
 }
 
 .author{
-    margin: 10px;
+    margin: 20px;
 }
