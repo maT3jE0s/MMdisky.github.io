@@ -70,7 +70,7 @@ header .icon_minimalized{
     display: none;
     position: absolute;
     right: 5%;
-    top: 5.7%;
+    top: 40px;
     transform: rotateY(-50%);
 }
 
